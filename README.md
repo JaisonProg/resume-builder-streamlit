@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/JaisonProg/resume-builder-streamlit/main/Resumebuilderpic.png" alt="Resume Builder Banner" width="100%"/>
 
+
 [![View App](https://img.shields.io/badge/Streamlit-View_App-brightgreen?logo=streamlit)](https://resume-builder-app-7isw7epzk78gllfzgkzw93.streamlit.app)
 
 # Live demo
