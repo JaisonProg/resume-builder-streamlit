@@ -3,6 +3,7 @@
 
 [![View App](https://img.shields.io/badge/Streamlit-View_App-brightgreen?logo=streamlit)](https://resume-builder-app-7isw7epzk78gllfzgkzw93.streamlit.app)
 
+
 # Live demo
 Click here to try the app : [https://resume-builder-app-7isw7epzk78gllfzgkzw93.streamlit.app](https://resume-builder-app-7isw7epzk78gllfzgkzw93.streamlit.app)
  
